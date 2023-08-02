@@ -1,0 +1,15 @@
+C:\Users\Yulya\Desktop\seminar9\exercise64\obj\Debug\net6.0\exercise64.csproj.AssemblyReference.cache
+C:\Users\Yulya\Desktop\seminar9\exercise64\obj\Debug\net6.0\exercise64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yulya\Desktop\seminar9\exercise64\obj\Debug\net6.0\exercise64.AssemblyInfoInputs.cache
+C:\Users\Yulya\Desktop\seminar9\exercise64\obj\Debug\net6.0\exercise64.AssemblyInfo.cs
+C:\Users\Yulya\Desktop\seminar9\exercise64\obj\Debug\net6.0\exercise64.csproj.CoreCompileInputs.cache
+C:\Users\Yulya\Desktop\seminar9\exercise64\bin\Debug\net6.0\exercise64.exe
+C:\Users\Yulya\Desktop\seminar9\exercise64\bin\Debug\net6.0\exercise64.deps.json
+C:\Users\Yulya\Desktop\seminar9\exercise64\bin\Debug\net6.0\exercise64.runtimeconfig.json
+C:\Users\Yulya\Desktop\seminar9\exercise64\bin\Debug\net6.0\exercise64.dll
+C:\Users\Yulya\Desktop\seminar9\exercise64\bin\Debug\net6.0\exercise64.pdb
+C:\Users\Yulya\Desktop\seminar9\exercise64\obj\Debug\net6.0\exercise64.dll
+C:\Users\Yulya\Desktop\seminar9\exercise64\obj\Debug\net6.0\refint\exercise64.dll
+C:\Users\Yulya\Desktop\seminar9\exercise64\obj\Debug\net6.0\exercise64.pdb
+C:\Users\Yulya\Desktop\seminar9\exercise64\obj\Debug\net6.0\exercise64.genruntimeconfig.cache
+C:\Users\Yulya\Desktop\seminar9\exercise64\obj\Debug\net6.0\ref\exercise64.dll

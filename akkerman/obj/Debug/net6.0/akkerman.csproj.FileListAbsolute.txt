@@ -1,0 +1,15 @@
+C:\Users\Yulya\Desktop\seminar9\akkerman\bin\Debug\net6.0\akkerman.exe
+C:\Users\Yulya\Desktop\seminar9\akkerman\bin\Debug\net6.0\akkerman.deps.json
+C:\Users\Yulya\Desktop\seminar9\akkerman\bin\Debug\net6.0\akkerman.runtimeconfig.json
+C:\Users\Yulya\Desktop\seminar9\akkerman\bin\Debug\net6.0\akkerman.dll
+C:\Users\Yulya\Desktop\seminar9\akkerman\bin\Debug\net6.0\akkerman.pdb
+C:\Users\Yulya\Desktop\seminar9\akkerman\obj\Debug\net6.0\akkerman.csproj.AssemblyReference.cache
+C:\Users\Yulya\Desktop\seminar9\akkerman\obj\Debug\net6.0\akkerman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yulya\Desktop\seminar9\akkerman\obj\Debug\net6.0\akkerman.AssemblyInfoInputs.cache
+C:\Users\Yulya\Desktop\seminar9\akkerman\obj\Debug\net6.0\akkerman.AssemblyInfo.cs
+C:\Users\Yulya\Desktop\seminar9\akkerman\obj\Debug\net6.0\akkerman.csproj.CoreCompileInputs.cache
+C:\Users\Yulya\Desktop\seminar9\akkerman\obj\Debug\net6.0\akkerman.dll
+C:\Users\Yulya\Desktop\seminar9\akkerman\obj\Debug\net6.0\refint\akkerman.dll
+C:\Users\Yulya\Desktop\seminar9\akkerman\obj\Debug\net6.0\akkerman.pdb
+C:\Users\Yulya\Desktop\seminar9\akkerman\obj\Debug\net6.0\akkerman.genruntimeconfig.cache
+C:\Users\Yulya\Desktop\seminar9\akkerman\obj\Debug\net6.0\ref\akkerman.dll
